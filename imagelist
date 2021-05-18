@@ -1,0 +1,33 @@
+mainChar images/MainCharFront1.png
+mainChar images/mainCharUp1.png
+mainChar images/MainCharRight1.png
+mainChar images/MainCharLeft1.png
+darkElf images/ElfFront1.png
+darkElf images/ElfUp1.png
+darkElf images/ElfRight1.png
+darkElf images/ElfLeft1.png
+reaper images/ReaperFront.png
+reaper images/ReaperBack.png
+reaper images/ReaperRight.png
+reaper images/ReaperLeft.png
+reaper images/LuggageFront.png
+reaper images/LuggageBack.png
+reaper images/LuggageRight.png
+reaper images/LuggageLeft.png
+devil images/DevilFront.png
+devil images/DevilBack.png
+devil images/DevilRight.png
+devil images/DevilLeft.png
+princess images/PrincessFront.png
+princess images/PrincessBack.png
+princess images/PrincessRight.png
+princess images/PrincessLeft.png
+halo images/PrincessHalo1.png 0 0 0 0
+halo images/PrincessHalo2.png 0 0 0 0
+halo images/PrincessHalo3.png 0 0 0 0
+projectile images/Projectile.png
+background images/background.png 255 255 255 0
+background images/BlueBack.png 255 255 255 0
+chest images/ChestClosed.png
+chest images/ChestOpen.png
+obstacle images/brickWall.png
